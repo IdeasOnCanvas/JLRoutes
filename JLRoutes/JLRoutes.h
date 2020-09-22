@@ -11,11 +11,10 @@
  */
 
 #import <Foundation/Foundation.h>
-
-#import <JLRRouteDefinition.h>
-#import <JLRRouteHandler.h>
-#import <JLRRouteRequest.h>
-#import <JLRRouteResponse.h>
+#import <JLRoutes/JLRRouteDefinition.h>
+#import <JLRoutes/JLRRouteHandler.h>
+#import <JLRoutes/JLRRouteRequest.h>
+#import <JLRoutes/JLRRouteResponse.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
